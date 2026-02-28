@@ -1,0 +1,18 @@
+[package]
+name = "microctl"
+version = "0.1.0"
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+description = "CLI frontend for the minid container runtime"
+
+[[bin]]
+name = "microctl"
+path = "src/main.rs"
+
+[dependencies]
+minid = { path = "../minid" }
+clap = { version = "4", features = ["derive"] }
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+anyhow = "1"
+serde_json = "1"

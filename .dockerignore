@@ -1,0 +1,6 @@
+target/
+site/
+.git/
+.github/
+*.md
+!README.md
