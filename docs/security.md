@@ -35,16 +35,16 @@ graph TB
     HOST_FS -. "pivot_root" .-> ROOTFS
     HOST_NET -. "SHARED ⚠️" .-> Container
 
-    style PID fill:#059669,color:#fff
-    style MNT fill:#059669,color:#fff
-    style UTS fill:#059669,color:#fff
-    style IPC fill:#059669,color:#fff
-    style ROOTFS fill:#059669,color:#fff
-    style PROC fill:#059669,color:#fff
-    style DEV fill:#059669,color:#fff
-    style MEM fill:#0284c7,color:#fff
-    style CPU fill:#0284c7,color:#fff
-    style HOST_NET fill:#dc2626,color:#fff
+    style PID fill:#34d399,color:#064e3b
+    style MNT fill:#34d399,color:#064e3b
+    style UTS fill:#34d399,color:#064e3b
+    style IPC fill:#34d399,color:#064e3b
+    style ROOTFS fill:#34d399,color:#064e3b
+    style PROC fill:#34d399,color:#064e3b
+    style DEV fill:#34d399,color:#064e3b
+    style MEM fill:#38bdf8,color:#0c4a6e
+    style CPU fill:#38bdf8,color:#0c4a6e
+    style HOST_NET fill:#f87171,color:#fff
 ```
 
 ## What minid Isolates

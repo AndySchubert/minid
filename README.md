@@ -109,6 +109,10 @@ cargo test --workspace      # run tests
 - [Security](docs/security.md) — isolation model and known limitations
 - [Design Decisions](docs/design-decisions.md) — rationale behind key choices
 
+## Acknowledgements
+
+Built with AI-assisted development using [Antigravity](https://github.com/google-deepmind/antigravity) and Claude Opus 4.6.
+
 ## License
 
 MIT

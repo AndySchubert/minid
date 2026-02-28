@@ -35,15 +35,15 @@ graph LR
     CTR --> ST
     CTR --> ERR
 
-    style MAIN fill:#7c3aed,color:#fff
-    style LIB fill:#6d28d9,color:#fff
-    style CTR fill:#5b21b6,color:#fff
-    style CFG fill:#8b5cf6,color:#fff
-    style NS fill:#8b5cf6,color:#fff
-    style CG fill:#8b5cf6,color:#fff
-    style MT fill:#8b5cf6,color:#fff
-    style ST fill:#8b5cf6,color:#fff
-    style ERR fill:#a78bfa,color:#fff
+    style MAIN fill:#a78bfa,color:#fff
+    style LIB fill:#8b5cf6,color:#fff
+    style CTR fill:#7c3aed,color:#fff
+    style CFG fill:#c4b5fd,color:#1e1b4b
+    style NS fill:#c4b5fd,color:#1e1b4b
+    style CG fill:#c4b5fd,color:#1e1b4b
+    style MT fill:#c4b5fd,color:#1e1b4b
+    style ST fill:#c4b5fd,color:#1e1b4b
+    style ERR fill:#ddd6fe,color:#1e1b4b
 ```
 
 ## Data Flow

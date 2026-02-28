@@ -47,9 +47,9 @@ graph LR
     CLI --> MINID
     LIB_USER --> MINID
 
-    style CLI fill:#7c3aed,color:#fff
-    style LIB_USER fill:#a78bfa,color:#fff
-    style MINID fill:#6d28d9,color:#fff
+    style CLI fill:#a78bfa,color:#fff
+    style LIB_USER fill:#c4b5fd,color:#1e1b4b
+    style MINID fill:#8b5cf6,color:#fff
 ```
 
 Splitting into `minid` (library) and `microctl` (binary) provides:

@@ -39,16 +39,16 @@ graph TB
     CG --> CGROUPS
     MNT --> VFS
 
-    style CLI fill:#7c3aed,color:#fff
-    style CONTAINER fill:#6d28d9,color:#fff
-    style CONFIG fill:#8b5cf6,color:#fff
-    style NS fill:#8b5cf6,color:#fff
-    style CG fill:#8b5cf6,color:#fff
-    style MNT fill:#8b5cf6,color:#fff
-    style STATE fill:#8b5cf6,color:#fff
-    style NAMESPACES fill:#1e1b4b,color:#fff
-    style CGROUPS fill:#1e1b4b,color:#fff
-    style VFS fill:#1e1b4b,color:#fff
+    style CLI fill:#a78bfa,color:#fff
+    style CONTAINER fill:#8b5cf6,color:#fff
+    style CONFIG fill:#c4b5fd,color:#1e1b4b
+    style NS fill:#c4b5fd,color:#1e1b4b
+    style CG fill:#c4b5fd,color:#1e1b4b
+    style MNT fill:#c4b5fd,color:#1e1b4b
+    style STATE fill:#c4b5fd,color:#1e1b4b
+    style NAMESPACES fill:#475569,color:#fff
+    style CGROUPS fill:#475569,color:#fff
+    style VFS fill:#475569,color:#fff
 ```
 
 ## Features
