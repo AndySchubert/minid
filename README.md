@@ -111,7 +111,7 @@ cargo test --workspace      # run tests
 
 ## Acknowledgements
 
-Built with AI-assisted development using [Antigravity](https://github.com/google-deepmind/antigravity) and Claude Opus 4.6.
+Built with AI-assisted development using Antigravity and Claude Opus 4.6.
 
 ## License
 
